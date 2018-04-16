@@ -1,0 +1,14 @@
+temp*.txt
+
+# this is a comment
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+assets/photoshop/*
+assets/videos/*
+#do track tour_*.mp4 files
+!assets/videos/tour_*.mp4
+
+
